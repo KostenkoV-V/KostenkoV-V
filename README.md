@@ -40,7 +40,7 @@ Always learning, building, and open to collaboration. 🚀
 ![JavaScript · Basic](https://img.shields.io/badge/JavaScript-Basic-ff8c00?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Tools:**  
-![Git · Basic](https://img.shields.io/badge/Git-Intermediate-ff8c00?style=for-the-badge&logo=git&logoColor=white)
+![Git · Basic](https://img.shields.io/badge/Git-Basic-ff8c00?style=for-the-badge&logo=git&logoColor=white)
 ![Linux · Basic](https://img.shields.io/badge/Linux-Basic-ff8c00?style=for-the-badge&logo=linux&logoColor=white)
 
 **Learning / Exploring:**  
